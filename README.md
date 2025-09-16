@@ -6,7 +6,7 @@ I’m a **Software Developer** with a strong background in full-stack developmen
 
 - Software Developer at Powered By ARC (Mississauga, ON)
 - Pursuing an Advanced College Diploma in Software Development at Mohawk College (expected Dec 2025)
-- Earned an Honours Bachelor of Commerce (Finance Major) from McMaster University (2021)
+- Earned an Honours Bachelor of Commerce (Major in Finance & Minor in Economics) from McMaster University (2021)
 - Passionate about applying technology and innovation to create impactful and user-focused software solutions
 
 ---
