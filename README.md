@@ -34,7 +34,7 @@ I’m a **Software Developer** with a strong background in full-stack developmen
 
 ## 🎓 Education & Certifications  
 
-- 🎓 **Advanced Diploma in Software Development** – Mohawk College (2022–2025, expected Dec 2025)  
+- 🎓 **Advanced Diploma in Software Development** – Mohawk College (2025)  
 - 🎓 **Honours Bachelor of Commerce (Finance Major)** – McMaster University (2021)  
 - 📜 Microsoft Certified: Azure Fundamentals (2023)  
 
