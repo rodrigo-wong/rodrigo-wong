@@ -4,10 +4,9 @@ I’m a **Software Developer** with a strong background in full-stack developmen
 
 💻 Currently:
 
-- Software Developer at symplistic.ai (Woodbridge, ON)
+- Software Developer at Vehikl (Waterloo, ON)
 - Honours Bachelor of Commerce (Major in Finance & Minor in Economics) from McMaster University
 - Advanced College Diploma in Software Development from Mohawk College
-- Passionate about applying technology and innovation to create impactful and user-focused software solutions
 
 ---
 
