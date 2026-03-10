@@ -41,4 +41,4 @@ I’m a **Software Developer** with a strong background in full-stack developmen
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigowong/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://rodrigowongmac.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigowong/) [![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-2D2D2D?style=for-the-badge&logo=stencil&logoColor=00FF41)](https://rodrigowongmac.com)
